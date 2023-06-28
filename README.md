@@ -2,7 +2,7 @@
 - 💻 Estudante Full Stack
 - <div style="display: flex">
   <img height="20" width="20" src="https://digitalcollege.com.br/wp-content/uploads/2021/10/cropped-icone-digital-college-192x192.png">
-  Estudando na Escola de Habilidades Digitais Digital Collage
+  Estudando na Escola de Habilidades Digitais Digital College
 </div>
 
 <div style="display: inline_block"><br>

@@ -43,9 +43,9 @@
 
 <div align="center">
   <img align="center" width="160" height="200" src="https://media.tenor.com/3f93u1L9b2sAAAAM/steven-universe-lapis-lazuli.gif">
-</div><br
+</div><br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorGabriellTS&theme=prussian&show_icons=true&hide_border=true&count_private=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGabriellTS&theme=prussian&show_icons=true&hide_border=true&layout=compact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VictorGabriellTS&theme=prussian&show_icons=true&hide_border=true&count_private=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGabriellTS&theme=prussian&show_icons=true&hide_border=true&layout=compact">
 </div>

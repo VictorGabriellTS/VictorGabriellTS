@@ -1,6 +1,8 @@
 ## Oii! Eu Sou o Victor Gabriel! 🖐️
 
-<br>
+<div align="center">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008AFF&heifht=120&section=header"/>
+</div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=008AFF&background=FFFFFF00&center=true&vCenter=true&width=1000&height=100&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Victor+Gabriel;Sou+estudante+Full+Stack;Tenho+16+anos;E+%C3%A9+isso%2C+tchau+%F0%9F%96%90%EF%B8%8F)](https://git.io/typing-svg)
 
@@ -46,6 +48,12 @@
 </div><br>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VictorGabriellTS&theme=prussian&show_icons=true&hide_border=true&count_private=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGabriellTS&theme=prussian&show_icons=true&hide_border=true&layout=compact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VictorGabriellTS&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGabriellTS&theme=tokyonight&show_icons=true&hide_border=true&layout=compact">
+</div><br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VictorGabriellTS&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008AFF&heifht=120&section=footer"/>
 </div>

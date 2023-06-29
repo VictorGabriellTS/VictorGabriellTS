@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=008AFF&background=FFFFFF00&center=true&vCenter=true&width=1000&height=100&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Victor+Gabriel;Sou+estudante+Full+Stack;Tenho+16+anos;E+%C3%A9+isso%2C+tchau+%F0%9F%96%90%EF%B8%8F)](https://git.io/typing-svg)
 
 <div align="center">
-  <img width="100" height="100" src="https://pps.whatsapp.net/v/t61.24694-24/355068654_1326857568269167_3309143182051638909_n.jpg?ccb=11-4&oh=01_AdTNCjyALQfdjL8uDRKqhT3xHC3GMKfHKkSJX9IKB0-KJw&oe=64A9E7DF">
+  <img width="100" height="100" src="https://avatars.githubusercontent.com/u/134895817?v=4">
 </div>
 
 <div><br>

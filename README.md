@@ -22,7 +22,7 @@
 <br>
 
 <div align="center">
-  <img width="600" src="https://media.tenor.com/VUdXQ9VTkMcAAAAC/lapis-lazuli.gif">
+  <img width=100% src="https://media.tenor.com/VUdXQ9VTkMcAAAAC/lapis-lazuli.gif">
 </div>
 
 <br>

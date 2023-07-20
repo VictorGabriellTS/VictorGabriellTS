@@ -17,7 +17,7 @@
   Estudando na Escola de Habilidades Digitais Digital College
   </div><br>
   <p align="center">💧 Lápis Lazuli</p>
-  <p align="center">🎵 Alec Benjamin - If Killed Someone For You</p>
+  <p align="center">🎵 Billie Eilish - What Was I Made For?</p>
 
 <br>
 

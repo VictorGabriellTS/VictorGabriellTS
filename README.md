@@ -17,7 +17,7 @@
   Estudando na Escola de Habilidades Digitais Digital College
   </div><br>
   <p align="center">💧 Lápis Lazuli</p>
-  <p align="center">🎵 Billie Eilish - What Was I Made For?</p>
+  <p align="center">🎵 Lana Del Rey - White Mustang</p>
 
 <br>
 

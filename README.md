@@ -4,7 +4,7 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#5666A1&heifht=120&section=header"/>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=#5666A1&background=FFFFFF00&center=true&vCenter=true&width=1000&height=100&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Victor+Gabriel;Sou+estudante+Full+Stack;Tenho+16+anos;E+%C3%A9+isso%2C+tchau+%F0%9F%96%90%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=#5666a1&background=FFFFFF00&center=true&vCenter=true&width=1000&height=100&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Victor+Gabriel;Sou+estudante+Full+Stack;Tenho+16+anos;E+%C3%A9+isso%2C+tchau+%F0%9F%96%90%EF%B8%8F)](https://git.io/typing-svg)
 
 <div align="center">
   <img width="100" height="100" src="https://avatars.githubusercontent.com/u/134895817?v=4">

@@ -1,7 +1,7 @@
 ## Oii! Eu Sou o Victor Gabriel! 🖐️
 
 <div align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008AFF&heifht=120&section=header"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#5666A1&heifht=120&section=header"/>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=008AFF&background=FFFFFF00&center=true&vCenter=true&width=1000&height=100&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Victor+Gabriel;Sou+estudante+Full+Stack;Tenho+16+anos;E+%C3%A9+isso%2C+tchau+%F0%9F%96%90%EF%B8%8F)](https://git.io/typing-svg)
@@ -16,13 +16,13 @@
   <img height="20" width="20" src="https://digitalcollege.com.br/wp-content/uploads/2021/10/cropped-icone-digital-college-192x192.png">
   Estudando na Escola de Habilidades Digitais Digital College
   </div><br>
-  <p align="center">💧 Lápis Lazuli</p>
+  <p align="center">🪞 Aaravos</p>
   <p align="center">🎵 Lana Del Rey - White Mustang</p>
 
 <br>
 
 <div align="center">
-  <img width=100% src="https://media.tenor.com/VUdXQ9VTkMcAAAAC/lapis-lazuli.gif">
+  <img width=100% src="https://media1.tenor.com/m/9DCwxFmbnwwAAAAd/the-dragon-prince-dragon-prince.gif">
 </div>
 
 <br>
@@ -47,7 +47,7 @@
 </div><br>
 
 <div align="center">
-  <img align="center" width="160" height="200" src="https://media.tenor.com/3f93u1L9b2sAAAAM/steven-universe-lapis-lazuli.gif">
+  <img align="center" width="160" height="200" src="https://media1.tenor.com/m/9iL3m1Lq_eMAAAAC/private-thedragonprince.gif">
 </div><br>
 
 <div align="center">
@@ -58,5 +58,5 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VictorGabriellTS&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008AFF&heifht=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#5666A1&heifht=120&section=footer"/>
 </div>

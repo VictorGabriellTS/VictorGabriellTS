@@ -16,13 +16,13 @@
   <img height="20" width="20" src="https://digitalcollege.com.br/wp-content/uploads/2021/10/cropped-icone-digital-college-192x192.png">
   Estudando na Escola de Habilidades Digitais Digital College
   </div><br>
-  <p align="center">🪞 Aaravos</p>
-  <p align="center">🎵 Lana Del Rey - White Mustang</p>
+  <p align="center">⚪ Pearl</p>
+  <p align="center">🎵 Lana Del Rey - Young And Beautiful</p>
 
 <br>
 
 <div align="center">
-  <img width=100% src="https://media1.tenor.com/m/9DCwxFmbnwwAAAAd/the-dragon-prince-dragon-prince.gif">
+  <img width=100% src="https://media1.tenor.com/m/xuwyMZzRbrQAAAAd/pearl-steven.gif"
 </div>
 
 <br>
@@ -47,7 +47,7 @@
 </div><br>
 
 <div align="center">
-  <img align="center" width="200" height="200" src="https://media1.tenor.com/m/9iL3m1Lq_eMAAAAC/private-thedragonprince.gif">
+  <img align="center" width="200" height="200" src="https://media.tenor.com/ql63R68uky8AAAAe/pearl-steven-universe.png">
 </div><br>
 
 <div align="center">

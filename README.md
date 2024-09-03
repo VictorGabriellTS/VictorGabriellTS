@@ -1,4 +1,4 @@
-## Oii! Eu Sou o Victor Gabriel! 🖐️
+## Hey! 🖐️
 
 <div align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#5666A1&heifht=120&section=header"/>
@@ -11,13 +11,7 @@
 </div>
 
 <div><br>
- <p align="center">💻 Estudante Full Stack</p>
-  <div style="display: flex" align="center">
-  <img height="20" width="20" src="https://digitalcollege.com.br/wp-content/uploads/2021/10/cropped-icone-digital-college-192x192.png">
-  Estudando na Escola de Habilidades Digitais Digital College
-  </div><br>
-  <p align="center">⚪ Pearl</p>
-  <p align="center">🎵 Lana Del Rey - Young And Beautiful</p>
+ <p align="center">💻 Estudante Full Stack</p> <br>
 
 <br>
 
